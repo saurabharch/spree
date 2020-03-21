@@ -11,7 +11,7 @@ gem 'yajl-ruby'
 gem 'sass'
 gem 'bourbon'
 gem 'neat'
-gem 'fog'
+gem 'fog', '>= 2.0.0'
 
 group :development do
   gem 'listen'
