@@ -16,7 +16,7 @@ gem 'fog'
 group :development do
   gem 'listen'
   gem 'rb-fsevent'
-  gem 'adsf'
+  gem 'adsf', '>= 1.4.1'
   gem 'fssm'
   gem 'rspec'
 end
